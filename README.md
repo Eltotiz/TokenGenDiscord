@@ -12,7 +12,7 @@ base64
 
 # Instalacion e ejecucion
 
-pip install -r requirements.txt
+pip install -r requirements.txt / pip install base64
 
 python3 main.py
 
